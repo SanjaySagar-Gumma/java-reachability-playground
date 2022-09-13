@@ -10,7 +10,7 @@ jobs:
         with:
           client_id: wq2phap3l
           api_key: ZTY0OTdlNzYtNTRlNy00YWJkLWExNjQtMGU1NTI1M2YzNzQw
-          project_name: "DAST-GitHub-Action-Test"
+          project_name: "DAST-GitHub-Action-Test1"
           scan_mode: "baseline"
           api_url: "https://api.soos.io/api/"
           target_url: "https://github.com/SanjaySagar-Gumma/vulnerable_python-master"
